@@ -485,4 +485,6 @@ const kidsData = [
     },
   },
 ];
-export { data, menData, womenData, kidsData };
+const contactUsImg =
+  "	https://templatemo.com/templates/templatemo_571_hexashop/assets/images/about-us-page-heading.jpg";
+export { data, menData, womenData, kidsData, contactUsImg };
